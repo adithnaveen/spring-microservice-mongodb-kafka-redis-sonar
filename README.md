@@ -3,14 +3,15 @@ Building Microservice architecture with Spring Boot and integrating MongoDB, Kaf
 
 
 ## Software List 
---
+
+
 Eclipse -> https://www.eclipse.org/downloads/ (Download and install, choose the link depending on the OS.). 
 
 Git SCM -> https://git-scm.com/downloads (Download and install, choose the link depending on the OS.). 
 
 IntelliJ IDEA -> https://www.jetbrains.com/idea/download/ (Download and install, choose the link depending on the OS.). 
 
-Java 8 -> https://www.oracle.com/in/java/technologies/javase-jdk8-downloads.html (Download and install, choose the link depending on the OS.). 
+Java 8 -> https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html (Download and install, choose the link depending on the OS.). 
 
 Apache Kafka -> https://archive.apache.org/dist/kafka/2.4.0/kafka_2.11-2.4.0.tgz (Download & extract)   
 
