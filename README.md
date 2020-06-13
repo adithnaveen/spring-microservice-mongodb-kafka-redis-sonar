@@ -26,3 +26,19 @@ Sonar Scanner -> https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/ (
 
 
 --------------------------------------------------------------------------
+Scaffolded projects 
+
+Eureka 
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.2.8.RELEASE&packaging=jar&jvmVersion=1.8&groupId=com.naveen&artifactId=eureka-naming-server&name=eureka-naming-server&description=eureka%20naming%20server%20project&packageName=com.naveen.eureka&dependencies=cloud-eureka-server,web
+
+Zuul 
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.2.8.RELEASE&packaging=jar&jvmVersion=1.8&groupId=com.naveen&artifactId=api-gateway&name=api-gateway&description=api%20gateway%20project&packageName=com.naveen.api.gateway&dependencies=web,cloud-zuul
+
+Product Service
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.2.8.RELEASE&packaging=jar&jvmVersion=1.8&groupId=com.naveen&artifactId=product-service&name=product-service&description=product%20service%20project&packageName=com.naveen.product.service&dependencies=web,devtools,data-mongodb,cloud-eureka,lombok
+
+
+Product Review Service 
+https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.2.8.RELEASE&packaging=jar&jvmVersion=1.8&groupId=com.naveen&artifactId=product-review-service&name=product-review-service&description=product%20review%20service&packageName=com.naveen.product.review&dependencies=devtools,web,data-mongodb,cloud-eureka,lombok
+
+
